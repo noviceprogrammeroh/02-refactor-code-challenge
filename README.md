@@ -10,8 +10,8 @@ This pages shows the completed challenge for week two. I refactored the code to 
 
 
 
-#Sreenshot of the web page
+##Sreenshot of the web page
 
 
 
-#Links
+##Links
