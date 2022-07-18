@@ -2,10 +2,11 @@
 
 Markup : This pages shows the completed challenge for week two. I refactored the code to semble the demo image. Here are the following things I formatted:
 
-Markup: *Added alts on the images
-        *Created ids for the benefits'sections paragraphs
-        *Deleted unnecesary styles
-        *Use semantics like header, nav, main, articles, aside and a footer.
+Markup: 
+-Added alts on the images
+-Created ids for the benefits'sections paragraphs
+-Deleted unnecesary styles
+-Use semantics like header, nav, main, articles, aside and a footer.
 
 
 
