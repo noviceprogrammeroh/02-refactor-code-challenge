@@ -1,17 +1,16 @@
 # 02-refactor-code-challenge
 
-This pages shows the completed challenge for week two. I refactored the code to semble the demo image. Here are the following things I formatted:
+Markup : This pages shows the completed challenge for week two. I refactored the code to semble the demo image. Here are the following things I formatted:
 
-
-**Added alts on the images
-*Created ids for the benefits'sections paragraphs
-*Deleted unnecesary styles
-*Use semantics like header, nav, main, articles, aside and a footer.
-
-
-
-##Sreenshot of the web page
+.Added alts on the images
+.Created ids for the benefits'sections paragraphs
+.Deleted unnecesary styles
+.Use semantics like header, nav, main, articles, aside and a footer.
 
 
 
-##Links
+## Sreenshot of the web page ##
+
+
+
+### Links ###
