@@ -1,6 +1,6 @@
 # 02-refactor-code-challenge
 
-Markup : This pages shows the completed challenge for week two. I refactored the code to semble the demo image. Here are the following things I formatted:
+This pages shows the completed challenge for week two. I refactored the code to semble the demo image. Here are the following things I formatted:
 
 - Added alts on the images
 - Created ids for the benefits'sections paragraphs
@@ -10,6 +10,8 @@ Markup : This pages shows the completed challenge for week two. I refactored the
 
 
 ## Sreenshot of the web page ##
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg
 
 
 
